@@ -1,5 +1,5 @@
 {
-  data:[{"id":1,"avatar":"https://robohash.org/estbeataequidem.png?size=50x50&set=set1","name":"Eachelle Daile","email":"edaile0@rakuten.co.jp","gender":"Female","skill":"Pre-opening"},
+  "data":[{"id":1,"avatar":"https://robohash.org/estbeataequidem.png?size=50x50&set=set1","name":"Eachelle Daile","email":"edaile0@rakuten.co.jp","gender":"Female","skill":"Pre-opening"},
 {"id":2,"avatar":"https://robohash.org/ipsamearumdolor.png?size=50x50&set=set1","name":"Cloe Harriot","email":"charriot1@mozilla.org","gender":"Female","skill":"New Hire Training"},
 {"id":3,"avatar":"https://robohash.org/rationeaccusantiumveniam.png?size=50x50&set=set1","name":"Chaim Archibould","email":"carchibould2@walmart.com","gender":"Male","skill":"WSGI"},
 {"id":4,"avatar":"https://robohash.org/architectoutquia.png?size=50x50&set=set1","name":"Iormina Taynton","email":"itaynton3@instagram.com","gender":"Female","skill":"CVA"},
